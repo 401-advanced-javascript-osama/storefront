@@ -12,7 +12,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
-    "react-script": "^2.0.5",
     "react-scripts": "^3.4.1",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8"
@@ -36,9 +35,6 @@
     "url": "https://github.com/401-advanced-javascript-osama/storefront/issues"
   },
   "homepage": "/",
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",

@@ -8,7 +8,8 @@
 
 ## How to initialize the application
     `npm run start`
-
+## deplyed url 
+[Netlify](https://pedantic-noyce-dfa6cb.netlify.app/)
 ## Modules
   - Header.js
   - Footer.js
