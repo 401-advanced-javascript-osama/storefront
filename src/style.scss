@@ -1,0 +1,25 @@
+h1{
+    padding: 10px;
+    box-shadow: 0px 10px 8px #888888;
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+.links{
+    margin-left: 1%;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12 {
+    /* margin-top: 5%; */
+    margin: 5%;
+    font-size: x-large;
+}
+
+.footer{
+    display: flex;
+    background-color: darkgray;
+    margin-top: 2%;
+    justify-content: space-evenly;
+}
